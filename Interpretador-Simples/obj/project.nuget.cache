@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2k0KKt+iV3sRXO0frL9CxvERFFj5Vwcsf76iV6s8hwnVAqh0H4vDR++AbU/AvMqdpZ9p+dv2FBSSOec17NMjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Interpretador-Simples\\translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

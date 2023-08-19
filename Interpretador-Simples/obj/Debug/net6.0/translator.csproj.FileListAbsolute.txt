@@ -1,0 +1,29 @@
+D:\Users\Leonardo\C#\compiladores\translator\bin\Debug\net6.0\translator.exe
+D:\Users\Leonardo\C#\compiladores\translator\bin\Debug\net6.0\translator.deps.json
+D:\Users\Leonardo\C#\compiladores\translator\bin\Debug\net6.0\translator.runtimeconfig.json
+D:\Users\Leonardo\C#\compiladores\translator\bin\Debug\net6.0\translator.dll
+D:\Users\Leonardo\C#\compiladores\translator\bin\Debug\net6.0\translator.pdb
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.csproj.AssemblyReference.cache
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.AssemblyInfoInputs.cache
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.AssemblyInfo.cs
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.csproj.CoreCompileInputs.cache
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.dll
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\refint\translator.dll
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.pdb
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\translator.genruntimeconfig.cache
+D:\Users\Leonardo\C#\compiladores\translator\obj\Debug\net6.0\ref\translator.dll
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\bin\Debug\net6.0\translator.exe
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\bin\Debug\net6.0\translator.deps.json
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\bin\Debug\net6.0\translator.runtimeconfig.json
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\bin\Debug\net6.0\translator.dll
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\bin\Debug\net6.0\translator.pdb
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.AssemblyInfoInputs.cache
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.AssemblyInfo.cs
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.csproj.CoreCompileInputs.cache
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.dll
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\refint\translator.dll
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.pdb
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\translator.genruntimeconfig.cache
+C:\Users\leobo\OneDrive\Área de Trabalho\Interpretador-Simples\obj\Debug\net6.0\ref\translator.dll
