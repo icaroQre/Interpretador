@@ -1,3 +1,4 @@
+
 # Interpretador-Simples
 
 Um compilador escrito em C# que converte o código-fonte de uma linguagem de programação desejada para código assembly.
@@ -50,3 +51,6 @@ r = 8
 get #j
 show #k
 Nota: O usuário pode alterar os valores conforme desejado.
+=======
+# Interpretador
+
